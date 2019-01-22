@@ -4,11 +4,10 @@ body {
 	text-align: center;
 	width: 100%;
 }
-h1{
-  font-family:palation, 'Palation Linotype', serif;
-}
+
 h1 {
 	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
 }
 
 h2 {
